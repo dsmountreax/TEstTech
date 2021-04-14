@@ -1,0 +1,4 @@
+clone
+C:\Users\Enrique\Desktop\test_repo>git clone https://github.com/dsmountreax/TEstTech.git 
+pull
+C:\Users\Enrique\Desktop\test_repo\TEstTech>git pull https://github.com/dsmountreax/TEstTech.git
